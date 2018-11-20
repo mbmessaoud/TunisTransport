@@ -1,0 +1,5 @@
+﻿id,libelle
+1,Lundi à Jeudi
+2,Vendredi
+3,Samedi
+4,Dimanche

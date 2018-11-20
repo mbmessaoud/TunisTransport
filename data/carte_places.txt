@@ -1,0 +1,131 @@
+﻿id,id_carte_topic,label_fr,label_slug_fr,description_fr,label_en,label_slug_en,description_en,label_ar,label_slug_ar,description_ar,marker,image,show_in_map,longitude,latitude
+1,1,Stade de Rades,stade-de-rades,Stade de Rades,Rades stadium,rades-stadium,Rades stadium,ملعب رادس,ملعب-رادس,ملعب رادس,1,,1,10.27260588958734,36.746709878504795
+2,1,Stade d'El Menzah,stade-d-el-menzah,Stade d'El Menzah,El Menzah Stadium,el-menzah-stadium,Stade d'El Menzah,ملعب المنزه,ملعب-المنزه,ملعب المنزه,1,,1,10.185101502685484,36.83980921047051
+3,2,Hôpital militaire,hopital-militaire,, Military hospital,military-hospital,,المستشفى العسكري,المستشفى-العسكري,,8,,0,10.178792947082457,36.78600478949141
+12,10,SLIMANE,slimane,,SLIMANE,slimane,,سليمان,سليمان,,1,,0,10.485763549804688,36.69947475141033
+13,10,BORJ CEDRIA,borj-cedria,,BORJ CEDRIA,borj-cedria,,برج السدرية,برج-السدرية,,1,,0,10.383796691894531,36.684086065159825
+14,10,HAMMAM ECHATT,hammam-echatt,,HAMMAM ECHATT,hammam-echatt,,حمام الشط,حمام-الشط,,1,,0,,
+15,10,JBAL RSAS,jbal-rsas,,JBAL RSAS,jbal-rsas,,جبل الرصاص,جبل-الرصاص,,1,,0,10.338478088378906,36.60805027910506
+16,10,HAMMAMLIF,hammamlif,,HAMMALIF,hammalif,,حمام الأنف,حمام-الأنف,,1,,0,,
+17,10,AZZAHRA,azzahra,,AZZAHRA,azzahra,,الزهراء,الزهراء,,1,,0,,
+18,10,BOUMHAL,boumhal,,BOUMHAL,boumhal,,بو مهل,بو-مهل,,1,,0,10.297622680664062,36.73360061534028
+19,10,RADES,rades,,RADES,rades,,رادس,رادس,,1,,0,10.189132690429688,36.789160278176055
+20,10,NOUVELLE MEDINA,nouvelle-medina,,NOUVELLE MEDINA,nouvelle-medina,,المدينة الجديدة,المدينة-الجديدة,,1,,0,,
+21,10,AL MALLAHA,al-mallaha,,AL MALLAHA,al-mallaha,,الملاحة,الملاحة,,1,,0,,
+22,10,MEGRINE,megrine,,MEGRINE,megrine,,مقرين,مقرين,,1,,0,10.234794616699219,36.76567653377438
+23,10,AL MOUROUJ,al-mourouj,,AL MOUROUJ,al-mourouj,,المروج,المروج,,1,,0,10.210762023925781,36.71312734612249
+24,10,MGHIRA,mghira,,MGHIRA,mghira,,المغيرة,المغيرة,,1,,0,10.17007827758789,36.714641045641024
+25,10,FOUCHANA,fouchana,,FOUCHANA,fouchana,,فوشانة,فوشانة,,1,,0,,
+26,10,AL MHAMDIA,al-mhamdia,,AL MHAMDIA,al-mhamdia,,المحمدية,المحمدية,,1,,0,,
+27,10,CITE IBN SINA,cite-ibn-sina,,CITE IBN SINA,cite-ibn-sina,,حي ابن سيناء,حي-ابن-سيناء,,1,,0,,
+28,18,BIR MCHERGUA,bir-mchergua,,BIR MCHERGUA,bir-mchergua,,بئر مشارقة,بئر-مشارقة,,1,,0,,
+29,6,SOUKRA,soukra,,SOUKRA,soukra,,سكرة,سكرة,,1,,0,10.248870849609375,36.88203639315165
+30,6,AL AOUINA,al-aouina,,AL AOUINA,al-aouina,,العوينة,العوينة,,1,,0,10.257110595703125,36.855668845464045
+31,6,DAR FADHAL,dar-fadhal,,DAR FADHAL,dar-fadhal,,دار فضال,دار-فضال,,1,,0,10.241317749023438,36.86802976654886
+32,6,CHOUTRANA,choutrana,,CHOUTRANA,choutrana,,شطرانة,شطرانة,,1,,0,,
+33,6,SIDI SALAH,sidi-salah,,SIDI SALAH,sidi-salah,,سيدي صالح,سيدي-صالح,,1,,0,,
+34,6,ENNKHILAT,ennkhilat,,ENNKHILAT,ennkhilat,,النخيلات,النخيلات,,1,,0,,
+35,6,CITE AL GHAZALA,cite-al-ghazala,,CITE AL GHAZALA,cite-al-ghazala,,حي الغزالة,حي-الغزالة,,1,,0,,
+36,6,ANNASSIM,annassim,,ANNASIM,annasim,,النسيم,النسيم,,1,,0,,
+37,6,JAAFAR,jaafar,,JAAFAR,jaafar,,برج الطويل,برج-الطويل,,1,,0,,
+38,6,BORJ TOUIL,borj-touil,,BORJ TOUIL,borj-touil,,برج الطويل,برج-الطويل,,1,,0,,
+39,6,RAOUED,raoued,,RAOUED,raoued,,رواد,رواد,,1,,0,10.191535949707031,36.953677145970005
+40,6,KELAAT AL ANDALOUS,kelaat-al-andalous,,KELLAT EL ANDALOUS,kellat-el-andalous,,قلعة الأندلس,قلعة-الأندلس,,1,,0,,
+41,6,SIDI THABET,sidi-thabet,,SIDI THABET,sidi-thabet,,سيدي ثابت,سيدي-ثابت,,1,,0,,
+42,6,SABBELET BEN AMMAR,sabbelet-ben-ammar,,SABBELET BEN AMMAR,sabbelet-ben-ammar,,سبالة بن عمار,سبالة-بن-عمار,,1,,0,,
+43,11,GAMMARTH,gammarth,,GAMMARTH,gammarth,,قمرت,قمرت,,1,,0,10.284576416015625,36.90866935843479
+44,11,LA MARSA,la-marsa,,LA MARSA,la-marsa,,المرسى,المرسى,,1,,0,10.324745178222656,36.87544535941357
+45,11,SIDI DAOUD,sidi-daoud,,SIDI DAOUD,sidi-daoud,,سيدي داود,سيدي-داود,,1,,0,10.309638977050781,36.86308563805141
+46,11,AIN ZAGHOUAN,ain-zaghouan,,AIN ZAGHOUAN,ain-zaghouan,,عين زغوان,عين-زغوان,,1,,0,,
+47,11,LA GOULETTE,la-goulette,,LA GOULETTE,la-goulette,,حلق الوادي,حلق-الوادي,,1,,0,,
+48,11,AL KRAM,al-kram,,AL KRAM,al-kram,,الكرم,الكرم,,1,,0,,
+49,11,LAC,lac,,LAC,lac,,ضفاف البحيرة,ضفاف-البحيرة,,1,,0,,
+50,11,CHARGUIA,charguia,,CHARGUIA,charguia,,الشرقية,الشرقية,,1,,0,,
+51,11,EL MENZAH,el-menzah,,EL MENZAH,el-menzah,,المنزه,المنزه,,1,,0,10.163383483886719,36.84467968159241
+52,6,CITE ENNASR,cite-ennasr,,CITE ENNASR,cite-ennasr,,حي النصر,حي-النصر,,1,,0,,
+53,11,CITE MAHRAJENE,cite-mahrajene,,CITE MAHRAJENE,cite-mahrajene,,حي المهرجان,حي-المهرجان,,1,,0,,
+54,11,CITE JARDIN,cite-jardin,,CITE JARDIN,cite-jardin,,حي الحديقة,حي-الحديقة,,1,,0,10.128707885742188,36.831215803243786
+55,11,JBAL LAHMAR,jbal-lahmar,,JBAL LAHMAR,jbal-lahmar,,الجبل الأحمر,الجبل-الأحمر,,1,,0,10.162696838378906,36.82159729625402
+56,11,BARDO,bardo,,BARDO,bardo,,باردو,باردو,,1,,0,,
+57,11,BAB SAADOUN,bab-saadoun,,BAB SAADOUN,bab-saadoun,,باب سعدون,باب-سعدون,,1,,0,,
+58,11,TORBET EL BAY,torbet-el-bay,,TOURBET EL BAY,tourbet-el-bay,,تربت الباي,تربت-الباي,,1,,0,,
+59,11,EZZOUHOUR,ezzouhour,,EZZOUHOUR,ezzouhour,,حي الزهور,حي-الزهور,,1,,0,10.154800415039062,36.78668570439197
+60,11,MELLASINE,mellasine,,MELLASINE,mellasine,,الملاسين,الملاسين,,1,,0,,
+61,11,SIDI HSINE,sidi-hsine,,SIDI HSINE,sidi-hsine,,سيدي حسين,سيدي-حسين,,1,,0,10.119867324829102,36.78679633157578
+62,11,SIDI BECHIR,sidi-bechir,,SIDI BECHIR,sidi-bechir,,سيدي البشير,سيدي-البشير,,1,,0,,
+63,11,BAB ALIOUA,bab-alioua,,BAB ALIOUA,bab-alioua,,باب عليوة,باب-عليوة,,1,,0,10.192222595214844,36.796308597950876
+64,11,MONTFLEURIT,montfleurit,,MONTFLEURIT,montfleurit,,منفلوري,منفلوري,,1,,0,,
+65,11,FATHALLAH,fathallah,,FATHALLAH,fathallah,,فتح الله,فتح-الله,,1,,0,,
+66,11,BAB JDID,bab-jdid,,BAB JDID,bab-jdid,,باب الجديد,باب-الجديد,,1,,0,,
+67,11,BAB EL KHADHRA,bab-el-khadhra,,BAB EL KHADHRA,bab-el-khadhra,,باب الخضراء,باب-الخضراء,,1,,0,,
+68,11,PLACE PASTEUR,place-pasteur,,PLACE PASTEUR ,place-pasteur,,ساحة باستور,ساحة-باستور,,1,,0,,
+69,11,MUTUELLE VILLE,mutuelle-ville,,MUTUELLE VILLE,mutuelle-ville,,ميتوال فيل,ميتوال-فيل,,1,,0,,
+70,12,CITE ETADHAMOUN,cite-etadhamoun,,CITE ETADHAMOUN,cite-etadhamoun,,حي التضامن,حي-التضامن,,1,,0,10.100898742675781,36.83726110303153
+71,12,OUED ELLIL,oued-ellil,,OUED ELLIL,oued-ellil,,وادي الليل,وادي-الليل,,1,,0,10.039100646972656,36.84083310106071
+72,12,EJDAIA,ejdaia,,EJDAIDA,ejdaida,,الجديدة,الجديدة,,1,,0,,
+73,12,HBIBIA,hbibia,,HBIBIA,hbibia,,الحبيبية,الحبيبية,,1,,0,9.939193725585938,36.810603236369985
+74,12,BATTAN,battan,,BATTAN,battan,,البطان,البطان,,1,,0,,
+75,12,TEBOURBA,tebourba,,TEBOURBA,tebourba,,طبربة,طبربة,,1,,0,,
+76,12,BORJ EL AMRI,borj-el-amri,,BORJ EL AMRI,borj-el-amri,,برج العامري,برج-العامري,,1,,0,9.885978698730469,36.71131043729148
+77,12,MORNAGUIA,mornaguia,,MORNAGUIA,mornaguia,,المرناقية,المرناقية,,1,,0,,
+78,12,AL AGBA,al-agba,,AL AGBA,al-agba,,العقبة,العقبة,,1,,0,,
+79,1,STADE CHEDLY ZOUITIN,stade-chedly-zouitin,,STADE CHEDLY ZOUITIN,stade-chedly-zouitin,,ملعب الشادلي زويتن,ملعب-الشادلي-زويتن,,1,,0,,
+80,1,STADE HAMMAM LIF,stade-hammam-lif,,STADE HAMMAM LIF,stade-hammam-lif,,الملعب البلدي بحمام الأنف,الملعب-البلدي-بحمام-الأنف,,1,,0,,
+81,2,HOPITAL HBIB THAMER,hopital-hbib-thamer,,HOPITAL HBIB THAMER,hopital-hbib-thamer,,مستشفى الحبيب ثامر,مستشفى-الحبيب-ثامر,,1,,0,,
+82,2,HOPITAL DES ENFANTS DE BAB SAADOUN,hopital-des-enfants-de-bab-saadoun,,HOPITAL DES ENFANTS DE BAB SAADOUN,hopital-des-enfants-de-bab-saadoun,,مستشفى الأطفال بباب سعدون,مستشفى-الأطفال-بباب-سعدون,,1,,0,,
+83,2,INSTITUT HEDI RAIS D'OPHTALMOLOGIE,institut-hedi-rais-d-ophtalmologie,,INSTITUT HEDI RAIS D'OPHTALMOLOGIE,institut-hedi-rais-d-ophtalmologie,,مههد الهادي الرايس لأمراض العيون,مههد-الهادي-الرايس-لأمراض-العيون,,1,,0,,
+84,2,HOPITAL CHARLE NICOLE,hopital-charle-nicole,,HOPITAL CHARLE NICOLE,hopital-charle-nicole,,مستشفى شارل نيكول,مستشفى-شارل-نيكول,,1,,0,,
+85,2,HÔPITAL DE LA NUTRITION,hopital-de-la-nutrition,,HÔPITAL DE LA NUTRITION,hopital-de-la-nutrition,,مستشفى التغذية,مستشفى-التغذية,,1,,0,,
+86,2,HÔPITAL LA RABTA,hopital-la-rabta,,HÔPITAL LA RABTA,hopital-la-rabta,,مستشفى الرابطة,مستشفى-الرابطة,,1,,0,,
+87,2,HÔPITAL DE LA NEUROLOGIE,hopital-de-la-neurologie,,HÔPITAL DE LA NEUROLOGIE,hopital-de-la-neurologie,,مستفى الأمراض العصبية,مستفى-الأمراض-العصبية,,1,,0,,
+88,2,Centre de traumatologie et des grands brûlés,centre-de-traumatologie-et-des-grands-brules,,Centre de traumatologie et des grands brûlés,centre-de-traumatologie-et-des-grands-brules,,مركز الإصابات و الحروق البليغة ببن عروس,مركز-الإصابات-و-الحروق-البليغة-ببن-عروس,,7,20150130123742__hospital-2.png,0,,
+89,2,HÔPITAL RÉGIONAL YESMINET,hopital-regional-yesminet,,HÔPITAL RÉGIONAL YESMINET,hopital-regional-yesminet,,المستشفى الجهوي باليسمينات,المستشفى-الجهوي-باليسمينات,,1,,0,,
+90,2,HÔPITAL MONGI SLIM - LA MARSA,hopital-mongi-slim-la-marsa,,HÔPITAL MONGI SLIM - LA MARSA,hopital-mongi-slim-la-marsa,,مستشفى المنجي سليم بالمرسى,مستشفى-المنجي-سليم-بالمرسى,,1,,0,,
+91,2,HÔPITAL RÉGIONAL KHAIREDDINE,hopital-regional-khaireddine,,HÔPITAL RÉGIONAL KHAIREDDINE,hopital-regional-khaireddine,,المستشفى الجهوي خير الدين,المستشفى-الجهوي-خير-الدين,,1,,0,,
+92,2,Hôpital Abderrahmane Mami de Pneumophistiologie,hopital-abderrahmane-mami-de-pneumophistiologie,,Hôpital Abderrahmane Mami de Pneumophistiologie,hopital-abderrahmane-mami-de-pneumophistiologie,,مستشفى عبد الرحمان مامي للأمراض الصدرية,مستشفى-عبد-الرحمان-مامي-للأمراض-الصدرية,,1,,0,,
+93,2,HOPITAL MAHMOUD ELMATRI,hopital-mahmoud-elmatri,,HOPITAL MAHMOUD ELMATRI,hopital-mahmoud-elmatri,,مستشفى محمود الماطري,مستشفى-محمود-الماطري,,1,,0,,
+94,2,Hôpital Psychiatrique Errazi,hopital-psychiatrique-errazi,,Hôpital Psychiatrique Errazi,hopital-psychiatrique-errazi,,مستشفى الأمراض النفسية الرازي,مستشفى-الأمراض-النفسية-الرازي,,1,,0,,
+95,2,INSTITUT KASSAB,institut-kassab,,INSTITUT KASSAB,institut-kassab,,معهد القصاب,معهد-القصاب,,1,,0,,
+96,3,CAMPUS UNIVERSITAIRE DE TUNIS,campus-universitaire-de-tunis,,CAMPUS UNIVERSITAIRE DE TUNIS,campus-universitaire-de-tunis,,جامعة تونس,جامعة-تونس,,1,,0,,
+97,3,CAMPUS UNIVERSITAIRE DE LA MANOUBA,campus-universitaire-de-la-manouba,,CAMPUS UNIVERSITAIRE DE LA MANOUBA,campus-universitaire-de-la-manouba,,جامعة منوبة,جامعة-منوبة,,1,,0,,
+98,13,MUSÉE DE BARDO,musee-de-bardo,,MUSÉE DE BARDO,musee-de-bardo,,متحف باردو,متحف-باردو,,1,,0,,
+99,3,Faculté des sciences humaines et sociales de Tunis | FSHST,faculte-des-sciences-humaines-et-sociales-de-tunis-fshst,,Faculté des sciences humaines et sociales de Tunis | FSHST,faculte-des-sciences-humaines-et-sociales-de-tunis-fshst,,كلية العلوم الانسانية و الاجتماعية بتونس,كلية-العلوم-الانسانية-و-الاجتماعية-بتونس,,1,,0,,
+100,3,Faculté de médecine de Tunis,faculte-de-medecine-de-tunis,,Faculté de médecine de Tunis,faculte-de-medecine-de-tunis,,كلية الطب بيونس,كلية-الطب-بيونس,,1,,0,,
+101,3,INSTITUT NATIONAL DES SCIENCES APPLIQUÉES ET DE LA TECHNOLOGIE - INSAT ,institut-national-des-sciences-appliquees-et-de-la-technologie-insat,,INSTITUT NATIONAL DES SCIENCES APPLIQUÉES ET DE LA TECHNOLOGIE - INSAT,institut-national-des-sciences-appliquees-et-de-la-technologie-insat,,المعهد الوطني للعلوم التطبيقية و التكنولوجيا,المعهد-الوطني-للعلوم-التطبيقية-و-التكنولوجيا,,1,,0,,
+102,3,INSTITUT SUPÉRIEUR DE GESTION DE TUNIS,institut-superieur-de-gestion-de-tunis,,INSTITUT SUPÉRIEUR DE GESTION DE TUNIS,institut-superieur-de-gestion-de-tunis,,المعهد الأعلى للتصرف بتونس,المعهد-الأعلى-للتصرف-بتونس,,1,,0,,
+103,3,INSTITUT DES BEAUX ARTS DE TUNIS,institut-des-beaux-arts-de-tunis,,INSTITUT DES BEAUX ARTS DE TUNIS,institut-des-beaux-arts-de-tunis,,كلية الفنون الجميلة بتونس,كلية-الفنون-الجميلة-بتونس,,1,,0,,
+104,14,FOIRE INTERNATIONAL KRAM,foire-international-kram,,FOIRE INTERNATIONAL KRAM,foire-international-kram,,المعرض الدولي بالكرم,المعرض-الدولي-بالكرم,,1,,0,,
+105,14,FOIRE INTERNATIONAL DE LA CHARGUIA,foire-international-de-la-charguia,,FOIRE INTERNATIONAL DE LA CHARGUIA,foire-international-de-la-charguia,,المعرض الدولي بالشرقية,المعرض-الدولي-بالشرقية,,1,,0,,
+106,1,STADE MUNICIPAL BORTAL ,stade-municipal-bortal,,STADE MUNICIPAL BORTAL ,stade-municipal-bortal,,الملعب البلدي بالبرطال,الملعب-البلدي-بالبرطال,,1,,0,,
+107,15,KATKOUT,katkout,,KATKOUT,katkout,,كتكوت,كتكوت,,1,,0,,
+108,15,DAH DAH,dah-dah,,DAH DAH,dah-dah,,دح دح,دح-دح,,1,,0,,
+109,11,TUNIS MDINA,tunis-mdina,,TUNIS MDINA,tunis-mdina,,تونس المدينة,تونس-المدينة,,1,,0,,
+110,10,BEN AROUS,ben-arous,,BEN AROUS,ben-arous,,بن عروس,بن-عروس,,1,,0,,
+111,6,ARIANA,ariana,,ARIANA,ariana,,أريانة,أريانة,,1,,0,,
+112,12,MANOUBA,manouba,,MANOUBA,manouba,,منوبة,منوبة,,1,,0,,
+113,11,EL OUARDIA,el-ouardia,,EL OUARDIA,el-ouardia,,الوردية,الوردية,,1,,0,,
+114,11,PASSAGE,passage,,PASSAGE,passage,,بساج,بساج,,1,,0,,
+115,16,TUNIS CITY - GEANT,tunis-city-geant,,TUNIS CITY - GEANT,tunis-city-geant,,جيان,جيان,,1,,0,,
+116,16,CARREFOUR,carrefour,,CARREFOUR,carrefour,,كارفور,كارفور,,1,,0,,
+117,10,NAASEN,naasen,,NAASEN,naasen,,نعسان,نعسان,,1,,0,,
+118,10,KHLIDIA,khlidia,,KHLIDIA,khlidia,,خليدية,خليدية,,1,,0,,
+119,10,MORNAG,mornag,,MORNAG,mornag,,مرناق,مرناق,,1,,0,,
+120,11,HRAIRIA,hrairia,,HRAIRIA,hrairia,,حرايرية,حرايرية,,1,,0,,
+121,11,9 AVRIL,9-avril,,9 AVRIL,9-avril,,9 أفريل,9-أفريل,,1,,0,,
+122,11,AL KASBA,al-kasba,,AL KASBA,al-kasba,,القصبة,القصبة,,1,,0,,
+123,11,BAB LAASAL,bab-laasal,,BAB LAASAL,bab-laasal,,باب العسل,باب-العسل,,1,,0,,
+124,11,BAB SIDI ABDESSALAM,bab-sidi-abdessalam,,BAB SIDI ABDESSALAM,bab-sidi-abdessalam,,باب سيدي عبد السلام,باب-سيدي-عبد-السلام,,1,,0,,
+125,15,BELVEDERE,belvedere,,BELVEDERE,belvedere,,البلفدير,البلفدير,,1,,0,,
+126,11,SIJOUMI,sijoumi,,SIJOUMI,sijoumi,,السيجومي,السيجومي,,1,,0,,
+127,19,MJEZ EL BEB,mjez-el-beb,,MJEZ EL BEB,mjez-el-beb,,مجاز الباب,مجاز-الباب,,1,,0,,
+128,20,PRISON DES FEMMES,prison-des-femmes,,WEEMEN PRISON,weemen-prison,,سجن النساء,سجن-النساء,,1,,0,10.093549489974976,36.80379383085575
+129,20,PRISON BORJ EL AMRI,prison-borj-el-amri,<div id=__if72ru4sdfsdfrkjahiuyi_once style=display:none;>&nbsp;</div>
+<div id=__if72ru4sdfsdfruh7fewui_once style=display:none;>&nbsp;</div>
+<div id=__hggasdgjhsagd_once style=display:none;>&nbsp;</div>,PRISON BORJ EL AMRI,prison-borj-el-amri,<div id=__if72ru4sdfsdfrkjahiuyi_once style=display:none;>&nbsp;</div>
+<div id=__if72ru4sdfsdfruh7fewui_once style=display:none;>&nbsp;</div>
+<div id=__hggasdgjhsagd_once style=display:none;>&nbsp;</div>,سجن برج العامري,سجن-برج-العامري,<div id=__if72ru4sdfsdfrkjahiuyi_once style=display:none;>&nbsp;</div>
+<div id=__if72ru4sdfsdfruh7fewui_once style=display:none;>&nbsp;</div>
+<div id=__hggasdgjhsagd_once style=display:none;>&nbsp;</div>,1,,0,,
+130,20,PRISON MORNAGUIA,prison-mornaguia,,PRISON MORNAGUIA,prison-mornaguia,,سجن المرناقية,سجن-المرناقية,,1,,0,9.930610656738281,36.72231874112276
+131,2,INSTITUT SALAH AZAIEZ,institut-salah-azaiez,,INSTITUT SALAH AZAIEZ,institut-salah-azaiez,,معهد صالح عزيّز,معهد-صالح-عزي-ز,,1,,0,,
+132,20,PRISON RABTA,prison-rabta,,PRISON RABTA,prison-rabta,,سجن الرابطة,سجن-الرابطة,,1,,0,,

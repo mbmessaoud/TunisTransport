@@ -1,0 +1,16 @@
+﻿id,label_fr,path_fr,label_en,path_en,label_ar,path_ar,has_child,parent_id
+1,Stades,Stades,Stadiums,Stadiums,الملاعب,الملاعب,0,
+2,Hôpitaux,Hôpitaux,Hospitals,Hospitals,المستشفيات,المستشفيات,0,
+3,Universités,Universités,Universities,Universities,الجامعات,الجامعات,0,
+4,Localités,Localités,Cities,Cities,المدن,المدن,1,
+6,ARIANA,Localités  ARIANA,ARIANA,Cities  ARIANA,أريانة,المدن  أريانة,0,4
+10,BEN AROUS,Localités  BEN AROUS,BEN AROUS,Cities  BEN AROUS,بن عروس,المدن  بن عروس,0,4
+11,TUNIS,Localités  TUNIS,TUNIS,Cities  TUNIS,تونس,المدن  تونس,0,4
+12,MANOUBA,Localités  MANOUBA,MANOUBA,Cities  MANOUBA,منوبة,المدن  منوبة,0,4
+13,Musée,Musée,Museum,Museum,متحف,متحف,0,
+14,Foire,Foire,Foire,Foire,معرض,معرض,0,
+15,MANEGE,MANEGE,MANEGE,MANEGE,مدينة ألعاب,مدينة ألعاب,0,
+16,CENTRE COMMERCIAL,CENTRE COMMERCIAL,CENTRE COMMERCIAL,CENTRE COMMERCIAL,مركز تجاري,مركز تجاري,0,
+18,ZAGHOUANE,Localités  ZAGHOUANE,ZAGHOUANE,Cities  ZAGHOUANE,زغوان,المدن  زغوان,0,4
+19,BEJA,Localités  BEJA,BEJA,Cities  BEJA,باجة,المدن  باجة,0,4
+20,PRISON,PRISON,PRISON,PRISON,سجن,سجن,0,
