@@ -83,7 +83,7 @@ fs.readFile('../data/station.txt', "utf8",function read(err, data) {
          console.log(Stations.bounds);
          console.log(Stations.stations.length);
 
-        fs.writeFile ("../dist/data/stations.json", JSON.stringify(Stations), function(err) {
+        fs.writeFile ("../data/stations.json", JSON.stringify(Stations), function(err) {
     if (err) throw err;
     console.log('complete');
     }
